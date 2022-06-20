@@ -21,8 +21,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
-- Steve Jobs: The Lost Interview
-1.千と千尋の神隠し
-- Weathering With You（天気の子）
--the Truman Show
 
+1. Yesterday(2019)
+2. Steve Jobs: The Lost Interview
+3.千と千尋の神隠し
+4.Weathering With You（天気の子）
+5.the Truman Show
