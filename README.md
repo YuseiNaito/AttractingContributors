@@ -15,20 +15,15 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Tell me your favourite Robot(Either real or creative is fine.)!!
+あなたの好きなロボットを教えてください。 アニメ・漫画などの創作でも現実のロボットでもどちらでもOKです！
+What is your favorite robot? It can be either an anime, manga, or other creation, or a real-life robot!
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Your Birth information
-- Osaka
-- 1999
-- working out
-- Oita
-- Hiroshima
-- 1997
-- 1987
-- 1997
-- 1997
-- 1998
-- 2000
+# List of Robot
+- ランスロット(コードギアス)
+- Doraemonnn
+1. ドラえもん
+- White-Glint (ARMORED CORE: FA)
+- Pepper
+- BlueROV2
+- xArm7
