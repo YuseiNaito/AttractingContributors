@@ -26,4 +26,5 @@ What is your favorite robot? It can be either an anime, manga, or other creation
 - White-Glint (ARMORED CORE: FA)
 - Pepper
 - BlueROV2  
+- xArm7
 - Gundam Exia (Mobile Suit Gundam 00)
